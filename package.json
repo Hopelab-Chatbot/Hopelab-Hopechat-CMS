@@ -24,7 +24,7 @@
     "express": "^4.12.3",
     "ramda": "^0.25.0",
     "react": "^16.0.0",
-    "react-dom": "^16.0.0",
+    "react-dom": "^16.13.1",
     "redis": "^2.8.0",
     "request": "^2.83.0",
     "shortid": "^2.2.8",
@@ -34,7 +34,7 @@
     "babel-eslint": "^9.0.0",
     "eslint": "^4.8.0",
     "eslint-plugin-jest": "^21.22.0",
-    "jest": "^23.5.0",
+    "jest": "^26.4.2",
     "prettier": "^1.7.4"
   },
   "prettier": {
